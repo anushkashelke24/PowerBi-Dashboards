@@ -18,7 +18,7 @@ Analyzes global survey data of data professionals with insights on:
 📂 Folder: Data-Professional-Survey-Dashboard
 
 ### Dashboard Preview
-![Survey Dashboard](Data-Professional-Survey-Dashboard/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 
 ### 2️⃣ HR Analytics Dashboard
